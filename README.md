@@ -113,3 +113,4 @@ You can assume that all strings will be lowercase. Take a look at the [`.include
 * The [`.include` method](http://ruby-doc.org/core/Array.html#method-i-include-3F)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/cartoon-collections'>Cartoon Collections Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Cartoon Collections</p>
